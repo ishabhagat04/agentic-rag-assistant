@@ -20,3 +20,8 @@ A 100% locally hosted, zero-API-cost Multi-Agent RAG (Retrieval-Augmented Genera
    ```bash
    ollama pull qwen2.5:1.5b
    ollama pull nomic-embed-text
+2. Clone this repository and install the Python requirements:
+   ```bash
+   pip install -r requirements.txt
+3. Run the Streamlit app:
+   streamlit run streamlit_app.py
