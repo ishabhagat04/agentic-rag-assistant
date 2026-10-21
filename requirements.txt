@@ -1,0 +1,13 @@
+# pyautogen[retrievechat]
+# chromadb
+# python-dotenv
+# pypdf
+
+autogen-agentchat>=0.4
+autogen-ext[openai]>=0.4
+langchain
+langchain-community
+langchain-ollama
+chromadb
+python-dotenv
+pypdf
